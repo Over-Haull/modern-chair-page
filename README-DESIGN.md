@@ -1,7 +1,5 @@
-Understood! Here's the design specification for your "Modern Chair Page" project, based on the HTML and CSS you provided.
 
-You can copy this entire section and save it as a `project-specs.md` file on your computer for easy reference.
-
+source:
 https://codehelp-modern-chair-page.netlify.app/
 
 ---
@@ -152,7 +150,3 @@ https://codehelp-modern-chair-page.netlify.app/
     * `chair6.png`
 
 ---
-
-This detailed specification should give you a complete understanding of the design for your "Modern Chair Page."
-
-Would you like to continue with another project, or perhaps explore specific aspects of this one in more detail?
