@@ -2,7 +2,7 @@
 
 A visually appealing and interactive product page for a modern chair. This project demonstrates how complex UI interactions, such as changing product colors, images, and background gradients, can be achieved using only HTML and CSS.
 
-### [Live Demo]()
+### [Live Demo](https://over-haull.github.io/modern-chair-page/)
 [Design file](README-DESIGN.md)
 ---
 
